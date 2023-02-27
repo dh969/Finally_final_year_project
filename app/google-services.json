@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "501091852457",
+    "project_id": "babble2-e20fe",
+    "storage_bucket": "babble2-e20fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501091852457:android:2aacc232b1ded170c749b8",
+        "android_client_info": {
+          "package_name": "com.fredrikbogg.android_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501091852457-cabeu7vou8t6e6a5m970l5l99v081lt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYn1D4TxSAvkLtRQt8XjmMuUnDx7_ozKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501091852457-cabeu7vou8t6e6a5m970l5l99v081lt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
